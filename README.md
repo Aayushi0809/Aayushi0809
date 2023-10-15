@@ -12,7 +12,7 @@ This GitHub repository is a canvas of my journey through Big Data Analytics, fea
 - 📡 Big Data Technologies: Hands-on experience with tools like Hadoop, Spark, and more.
 - 📚 Learning Resources: Sharing my favorite books, courses, and tutorials on data analysis.
 
- Seeking Internship Opportunities
+ :employment: Seeking Internship Opportunities
 I'm actively looking for internships in the field of Big Data Analytics. If you have an exciting project, internship, or collaboration opportunity, I'd love to hear from you. Let's connect and explore how we can work together to harness the potential of data. 🚀
 
 Get in Touch
