@@ -17,20 +17,3 @@ I'm actively looking for internships in the field of Big Data Analytics. If you 
 
 Get in Touch
 Feel free to explore my projects, ask questions, or connect with me. You can reach out via mail: aayushidedhia8@gmail.com or connect on LinkedIn Profile: (https://www.linkedin.com/in/aayushi-dedhia-291a71236/). I'm open to collaborations and always eager to learn and contribute.
-
-
-
-
-
-
-
-
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Aayushi0809/Aayushi0809 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
